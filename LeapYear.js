@@ -8,6 +8,6 @@ return ("leap year");
 return ("not leap year");
 }
 } else { 
-return ("not leao year");
+return ("not leap year");
 }
 }
